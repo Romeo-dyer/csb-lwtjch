@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://romeo-dyer.github.io/csb-lwtjch/static/css/main.fac415da.chunk.css",
+    "main.js": "https://romeo-dyer.github.io/csb-lwtjch/static/js/main.9fedc095.chunk.js",
+    "main.js.map": "https://romeo-dyer.github.io/csb-lwtjch/static/js/main.9fedc095.chunk.js.map",
+    "runtime-main.js": "https://romeo-dyer.github.io/csb-lwtjch/static/js/runtime-main.d734363a.js",
+    "runtime-main.js.map": "https://romeo-dyer.github.io/csb-lwtjch/static/js/runtime-main.d734363a.js.map",
+    "static/js/2.65110ae7.chunk.js": "https://romeo-dyer.github.io/csb-lwtjch/static/js/2.65110ae7.chunk.js",
+    "static/js/2.65110ae7.chunk.js.map": "https://romeo-dyer.github.io/csb-lwtjch/static/js/2.65110ae7.chunk.js.map",
+    "index.html": "https://romeo-dyer.github.io/csb-lwtjch/index.html",
+    "static/css/main.fac415da.chunk.css.map": "https://romeo-dyer.github.io/csb-lwtjch/static/css/main.fac415da.chunk.css.map",
+    "static/js/2.65110ae7.chunk.js.LICENSE.txt": "https://romeo-dyer.github.io/csb-lwtjch/static/js/2.65110ae7.chunk.js.LICENSE.txt",
+    "static/media/check.9e20c302.svg": "https://romeo-dyer.github.io/csb-lwtjch/static/media/check.9e20c302.svg",
+    "static/media/down-arrow.b49d80c2.svg": "https://romeo-dyer.github.io/csb-lwtjch/static/media/down-arrow.b49d80c2.svg",
+    "static/media/link.29f36445.svg": "https://romeo-dyer.github.io/csb-lwtjch/static/media/link.29f36445.svg",
+    "static/media/loading.68969fb3.svg": "https://romeo-dyer.github.io/csb-lwtjch/static/media/loading.68969fb3.svg",
+    "static/media/styles.css": "https://romeo-dyer.github.io/csb-lwtjch/static/media/main.f7e952b2.svg",
+    "static/media/magic.77819bf1.svg": "https://romeo-dyer.github.io/csb-lwtjch/static/media/magic.77819bf1.svg",
+    "static/media/nft-one.80b03537.svg": "https://romeo-dyer.github.io/csb-lwtjch/static/media/nft-one.80b03537.svg",
+    "static/media/nft-three.04ad1730.svg": "https://romeo-dyer.github.io/csb-lwtjch/static/media/nft-three.04ad1730.svg",
+    "static/media/nft-two.ede1b645.svg": "https://romeo-dyer.github.io/csb-lwtjch/static/media/nft-two.ede1b645.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d734363a.js",
+    "static/js/2.65110ae7.chunk.js",
+    "static/css/main.fac415da.chunk.css",
+    "static/js/main.9fedc095.chunk.js"
+  ]
+}
